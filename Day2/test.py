@@ -21,7 +21,7 @@ print("upper-case is",upper_case)
 
 #replace value
 value="Users/Furkanmirza/python-zero-to-her"
-rep=value.replace("Furkanmirza","Mahinsheikh")
+rep=value.replace("Furkanmirza","furquanbaig")
 print("replace name is",rep)
 
 #string-strip
